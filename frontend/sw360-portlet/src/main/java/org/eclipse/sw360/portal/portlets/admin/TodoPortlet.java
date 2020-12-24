@@ -40,9 +40,9 @@ import static org.eclipse.sw360.portal.common.PortalConstants.*;
     property = {
         "javax.portlet.name=" + TODOS_PORTLET_NAME,
 
-        "javax.portlet.display-name=Obligations",
-        "javax.portlet.info.short-title=Obligations",
-        "javax.portlet.info.title=Obligations",
+        "javax.portlet.display-name=Obligations_1",
+        "javax.portlet.info.short-title=Obligations_2",
+        "javax.portlet.info.title=Obligations_3",
         "javax.portlet.resource-bundle=content.Language",
         "javax.portlet.init-param.view-template=/html/admin/obligations/view.jsp",
     },
